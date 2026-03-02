@@ -825,10 +825,14 @@
         <entry>
           <string>NetName</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <string>B</string>
 =======
           <string>B&apos;</string>
 >>>>>>> bf2f8bd (Finished Digital file)
+=======
+          <string>B</string>
+>>>>>>> cd084fb (Fixed minor issue)
         </entry>
       </elementAttributes>
       <pos x="520" y="-20"/>
