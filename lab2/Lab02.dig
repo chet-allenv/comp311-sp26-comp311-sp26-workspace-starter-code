@@ -855,6 +855,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           <string>B</string>
 =======
           <string>B&apos;</string>
@@ -865,6 +866,9 @@
 =======
           <string>B&apos;</string>
 >>>>>>> 504a600 (Finished Digital file)
+=======
+          <string>B</string>
+>>>>>>> 00ad3e6 (Fixed minor issue)
         </entry>
       </elementAttributes>
       <pos x="520" y="-20"/>
