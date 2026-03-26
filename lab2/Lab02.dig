@@ -85,10 +85,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <pos x="780" y="600"/>
 =======
       <pos x="780" y="520"/>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
       <pos x="780" y="600"/>
 >>>>>>> ca63ba6 (Added digital clock display)
@@ -98,6 +102,8 @@
 =======
       <pos x="780" y="600"/>
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -113,10 +119,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <pos x="160" y="800"/>
 =======
       <pos x="140" y="800"/>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
       <pos x="160" y="840"/>
 >>>>>>> ca63ba6 (Added digital clock display)
@@ -132,6 +142,8 @@
 =======
       <pos x="160" y="800"/>
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -145,10 +157,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <pos x="600" y="1100"/>
 =======
       <pos x="600" y="1040"/>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
       <pos x="600" y="1100"/>
 >>>>>>> ca63ba6 (Added digital clock display)
@@ -158,6 +174,8 @@
 =======
       <pos x="600" y="1100"/>
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -872,10 +890,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
           <string>B</string>
 =======
           <string>B&apos;</string>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
           <string>B</string>
 >>>>>>> cd084fb (Fixed minor issue)
@@ -885,6 +907,8 @@
 =======
           <string>B</string>
 >>>>>>> 00ad3e6 (Fixed minor issue)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
         </entry>
       </elementAttributes>
       <pos x="520" y="-20"/>
@@ -975,10 +999,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <pos x="500" y="260"/>
 =======
       <pos x="500" y="220"/>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
       <pos x="500" y="260"/>
 >>>>>>> bbed3b5 (Reworked some things :D)
@@ -988,6 +1016,8 @@
 =======
       <pos x="500" y="260"/>
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -1005,10 +1035,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <pos x="500" y="220"/>
 =======
       <pos x="500" y="260"/>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
       <pos x="500" y="220"/>
 >>>>>>> bbed3b5 (Reworked some things :D)
@@ -1018,6 +1052,8 @@
 =======
       <pos x="500" y="220"/>
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -1463,10 +1499,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <pos x="-60" y="760"/>
 =======
       <pos x="20" y="760"/>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
       <pos x="-60" y="760"/>
 >>>>>>> bbed3b5 (Reworked some things :D)
@@ -1476,6 +1516,8 @@
 =======
       <pos x="-60" y="760"/>
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -1736,6 +1778,7 @@
       <pos x="1200" y="440"/>
     </visualElement>
     <visualElement>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2320,12 +2363,18 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <elementName>Or</elementName>
+=======
+      <elementName>And</elementName>
+>>>>>>> bf2f8bd (Finished Digital file)
       <elementAttributes>
         <entry>
           <string>wideShape</string>
           <boolean>true</boolean>
         </entry>
+<<<<<<< HEAD
         <entry>
           <string>Inputs</string>
           <int>4</int>
@@ -3064,6 +3113,10 @@
         </entry>
       </elementAttributes>
       <pos x="120" y="800"/>
+=======
+      </elementAttributes>
+      <pos x="200" y="900"/>
+>>>>>>> bf2f8bd (Finished Digital file)
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -3073,7 +3126,11 @@
           <boolean>true</boolean>
         </entry>
       </elementAttributes>
+<<<<<<< HEAD
       <pos x="280" y="960"/>
+=======
+      <pos x="200" y="980"/>
+>>>>>>> bf2f8bd (Finished Digital file)
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -3083,7 +3140,11 @@
           <boolean>true</boolean>
         </entry>
       </elementAttributes>
+<<<<<<< HEAD
       <pos x="280" y="1080"/>
+=======
+      <pos x="200" y="1060"/>
+>>>>>>> bf2f8bd (Finished Digital file)
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -3093,6 +3154,7 @@
           <boolean>true</boolean>
         </entry>
       </elementAttributes>
+<<<<<<< HEAD
       <pos x="280" y="1180"/>
     </visualElement>
     <visualElement>
@@ -3108,6 +3170,9 @@
         </entry>
       </elementAttributes>
       <pos x="280" y="960"/>
+=======
+      <pos x="200" y="1140"/>
+>>>>>>> bf2f8bd (Finished Digital file)
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3121,6 +3186,7 @@
           <string>C</string>
         </entry>
       </elementAttributes>
+<<<<<<< HEAD
       <pos x="280" y="1000"/>
     </visualElement>
     <visualElement>
@@ -3150,6 +3216,9 @@
         </entry>
       </elementAttributes>
       <pos x="280" y="1120"/>
+=======
+      <pos x="200" y="1140"/>
+>>>>>>> bf2f8bd (Finished Digital file)
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3163,7 +3232,11 @@
           <string>C</string>
         </entry>
       </elementAttributes>
+<<<<<<< HEAD
       <pos x="280" y="1180"/>
+=======
+      <pos x="200" y="940"/>
+>>>>>>> bf2f8bd (Finished Digital file)
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3174,10 +3247,17 @@
         </entry>
         <entry>
           <string>NetName</string>
+<<<<<<< HEAD
           <string>D&apos;</string>
         </entry>
       </elementAttributes>
       <pos x="280" y="1220"/>
+=======
+          <string>A&apos;</string>
+        </entry>
+      </elementAttributes>
+      <pos x="200" y="900"/>
+>>>>>>> bf2f8bd (Finished Digital file)
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3191,7 +3271,81 @@
           <string>A</string>
         </entry>
       </elementAttributes>
+<<<<<<< HEAD
       <pos x="380" y="860"/>
+=======
+      <pos x="200" y="980"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>B&apos;</string>
+        </entry>
+      </elementAttributes>
+      <pos x="200" y="1020"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>B</string>
+        </entry>
+      </elementAttributes>
+      <pos x="200" y="1060"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>C&apos;</string>
+        </entry>
+      </elementAttributes>
+      <pos x="200" y="1100"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>D&apos;</string>
+        </entry>
+      </elementAttributes>
+      <pos x="200" y="1180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Or</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Inputs</string>
+          <int>4</int>
+        </entry>
+      </elementAttributes>
+      <pos x="480" y="1000"/>
+>>>>>>> bf2f8bd (Finished Digital file)
     </visualElement>
   </visualElements>
   <wires>
@@ -3232,13 +3386,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="280" y="1160"/>
       <p2 x="320" y="1160"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
@@ -3247,6 +3406,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="20" y="-140"/>
       <p2 x="80" y="-140"/>
     </wire>
@@ -3267,13 +3429,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="-160" y="780"/>
       <p2 x="20" y="780"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
@@ -3282,6 +3449,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="600" y="-400"/>
       <p2 x="660" y="-400"/>
     </wire>
@@ -3298,14 +3468,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> bbed3b5 (Reworked some things :D)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="360" y="1040"/>
       <p2 x="480" y="1040"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3316,6 +3490,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="20" y="-20"/>
       <p2 x="80" y="-20"/>
     </wire>
@@ -3348,9 +3526,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="-180" y="920"/>
       <p2 x="-140" y="920"/>
     </wire>
@@ -3360,6 +3542,7 @@
     </wire>
     <wire>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
 >>>>>>> bbed3b5 (Reworked some things :D)
@@ -3367,6 +3550,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="500" y="540"/>
       <p2 x="640" y="540"/>
     </wire>
@@ -3383,10 +3569,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="840" y="160"/>
       <p2 x="920" y="160"/>
     </wire>
@@ -3401,6 +3590,7 @@
       <p1 x="100" y="800"/>
       <p2 x="140" y="800"/>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
       <p1 x="100" y="800"/>
 =======
@@ -3419,6 +3609,8 @@
 >>>>>>> 7edb2be (Reworked some things :D)
       <p2 x="160" y="800"/>
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
     </wire>
     <wire>
       <p1 x="1020" y="-420"/>
@@ -3429,13 +3621,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="300" y="1060"/>
       <p2 x="480" y="1060"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
@@ -3444,6 +3641,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="640" y="40"/>
       <p2 x="740" y="40"/>
     </wire>
@@ -3456,13 +3656,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="-180" y="680"/>
       <p2 x="-140" y="680"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
@@ -3471,6 +3676,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="1060" y="-300"/>
       <p2 x="1180" y="-300"/>
     </wire>
@@ -3491,14 +3699,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> bbed3b5 (Reworked some things :D)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="360" y="1200"/>
       <p2 x="480" y="1200"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3509,6 +3721,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="1020" y="-180"/>
       <p2 x="1060" y="-180"/>
     </wire>
@@ -3521,13 +3737,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="-160" y="820"/>
       <p2 x="20" y="820"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
@@ -3536,6 +3757,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="480" y="440"/>
       <p2 x="500" y="440"/>
     </wire>
@@ -3548,9 +3772,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="280" y="1080"/>
       <p2 x="300" y="1080"/>
     </wire>
@@ -3560,6 +3788,7 @@
     </wire>
     <wire>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
 >>>>>>> bbed3b5 (Reworked some things :D)
@@ -3567,6 +3796,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="620" y="60"/>
       <p2 x="740" y="60"/>
     </wire>
@@ -3583,14 +3815,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="780" y="-320"/>
       <p2 x="820" y="-320"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3601,6 +3837,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="1060" y="320"/>
       <p2 x="1100" y="320"/>
     </wire>
@@ -3609,9 +3849,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="-180" y="840"/>
       <p2 x="-160" y="840"/>
     </wire>
@@ -3621,6 +3865,7 @@
     </wire>
     <wire>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
 >>>>>>> bbed3b5 (Reworked some things :D)
@@ -3628,6 +3873,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="1080" y="460"/>
       <p2 x="1200" y="460"/>
     </wire>
@@ -3645,14 +3893,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p2 x="840" y="80"/>
     </wire>
     <wire>
       <p1 x="840" y="80"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3663,6 +3915,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p2 x="880" y="80"/>
     </wire>
     <wire>
@@ -3675,10 +3931,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p2 x="1280" y="-340"/>
     </wire>
     <wire>
@@ -3704,11 +3963,15 @@
     <wire>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
 =======
       <p2 x="1320" y="-340"/>
     </wire>
     <wire>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
@@ -3722,6 +3985,8 @@
 >>>>>>> 372e6b0 (Added digital clock display)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="380" y="600"/>
       <p2 x="400" y="600"/>
     </wire>
@@ -3738,14 +4003,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> bbed3b5 (Reworked some things :D)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="380" y="860"/>
       <p2 x="480" y="860"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3756,6 +4025,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="600" y="-480"/>
       <p2 x="700" y="-480"/>
     </wire>
@@ -3773,14 +4046,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p2 x="1360" y="480"/>
     </wire>
     <wire>
       <p1 x="1360" y="480"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3791,6 +4068,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p2 x="1380" y="480"/>
     </wire>
     <wire>
@@ -3830,9 +4111,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="280" y="1000"/>
       <p2 x="300" y="1000"/>
     </wire>
@@ -3842,6 +4127,7 @@
     </wire>
     <wire>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
 >>>>>>> bbed3b5 (Reworked some things :D)
@@ -3849,6 +4135,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="80" y="-240"/>
       <p2 x="120" y="-240"/>
     </wire>
@@ -3885,9 +4174,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="-180" y="760"/>
       <p2 x="-160" y="760"/>
     </wire>
@@ -3896,6 +4189,7 @@
       <p2 x="20" y="760"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3917,6 +4211,9 @@
 >>>>>>> 372e6b0 (Added digital clock display)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="1060" y="-380"/>
       <p2 x="1180" y="-380"/>
     </wire>
@@ -3925,10 +4222,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="420" y="1020"/>
 =======
       <p1 x="300" y="1020"/>
 >>>>>>> bf2f8bd (Finished Digital file)
+<<<<<<< HEAD
 =======
       <p1 x="420" y="1020"/>
 >>>>>>> bbed3b5 (Reworked some things :D)
@@ -3938,6 +4239,8 @@
 =======
       <p1 x="420" y="1020"/>
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p2 x="480" y="1020"/>
     </wire>
     <wire>
@@ -3957,6 +4260,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="1280" y="-340"/>
       <p2 x="1280" y="-160"/>
     </wire>
@@ -3980,14 +4286,18 @@
       <p1 x="480" y="1080"/>
       <p2 x="480" y="1200"/>
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="320" y="920"/>
       <p2 x="320" y="1000"/>
     </wire>
     <wire>
       <p1 x="320" y="1080"/>
       <p2 x="320" y="1160"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
     </wire>
@@ -4051,6 +4361,9 @@
     <wire>
       <p1 x="480" y="1080"/>
       <p2 x="480" y="1200"/>
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
     </wire>
     <wire>
       <p1 x="1060" y="-500"/>
@@ -4061,11 +4374,16 @@
       <p2 x="1060" y="-180"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+<<<<<<< HEAD
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="420" y="980"/>
       <p2 x="420" y="1020"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -4076,6 +4394,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="520" y="360"/>
       <p2 x="520" y="480"/>
     </wire>
@@ -4088,11 +4410,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
       <p1 x="840" y="80"/>
       <p2 x="840" y="160"/>
 =======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="840" y="80"/>
       <p2 x="840" y="160"/>
     </wire>
@@ -4152,11 +4477,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="-140" y="680"/>
       <p2 x="-140" y="760"/>
     </wire>
@@ -4166,6 +4495,7 @@
     </wire>
     <wire>
       <p1 x="780" y="-360"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <p2 x="780" y="-320"/>
     </wire>
@@ -4189,6 +4519,12 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+      <p2 x="780" y="-280"/>
+    </wire>
+    <wire>
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="620" y="0"/>
       <p2 x="620" y="60"/>
     </wire>
@@ -4205,6 +4541,7 @@
     </wire>
     <wire>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     </wire>
     <wire>
@@ -4213,6 +4550,8 @@
     </wire>
     <wire>
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="940" y="840"/>
       <p2 x="940" y="880"/>
     </wire>
@@ -4221,8 +4560,27 @@
       <p2 x="940" y="1060"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+=======
+      <p1 x="1100" y="320"/>
+      <p2 x="1100" y="440"/>
+    </wire>
+    <wire>
+      <p1 x="1100" y="520"/>
+      <p2 x="1100" y="640"/>
+    </wire>
+    <wire>
+      <p1 x="300" y="1060"/>
+      <p2 x="300" y="1080"/>
+    </wire>
+    <wire>
+      <p1 x="300" y="1000"/>
+      <p2 x="300" y="1020"/>
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
     </wire>
     <wire>
 >>>>>>> 504a600 (Finished Digital file)
@@ -4292,14 +4650,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="1360" y="420"/>
       <p2 x="1360" y="480"/>
     </wire>
     <wire>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -4310,6 +4672,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="660" y="-260"/>
       <p2 x="660" y="-240"/>
     </wire>
@@ -4322,10 +4688,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="980" y="840"/>
       <p2 x="980" y="880"/>
     </wire>
@@ -4338,11 +4707,25 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+      <p1 x="500" y="440"/>
+      <p2 x="500" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="500" y="540"/>
+      <p2 x="500" y="600"/>
+    </wire>
+    <wire>
+<<<<<<< HEAD
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="600" y="980"/>
       <p2 x="600" y="1040"/>
     </wire>
@@ -4351,6 +4734,7 @@
       <p2 x="600" y="1100"/>
     </wire>
     <wire>
+<<<<<<< HEAD
       <p1 x="-160" y="820"/>
       <p2 x="-160" y="840"/>
     </wire>
@@ -4451,6 +4835,10 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 7edb2be (Reworked some things :D)
+=======
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
       <p1 x="1080" y="400"/>
       <p2 x="1080" y="460"/>
     </wire>
@@ -4470,9 +4858,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 504a600 (Finished Digital file)
+=======
+=======
+>>>>>>> 3ea558d (Finished lab 3)
     <wire>
       <p1 x="-160" y="820"/>
       <p2 x="-160" y="840"/>
@@ -4482,6 +4874,7 @@
       <p2 x="-160" y="780"/>
     </wire>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bf2f8bd (Finished Digital file)
 =======
 >>>>>>> ca63ba6 (Added digital clock display)
@@ -4489,6 +4882,9 @@
 >>>>>>> 504a600 (Finished Digital file)
 =======
 >>>>>>> 372e6b0 (Added digital clock display)
+=======
+>>>>>>> bf2f8bd (Finished Digital file)
+>>>>>>> 3ea558d (Finished lab 3)
   </wires>
   <measurementOrdering/>
 </circuit>

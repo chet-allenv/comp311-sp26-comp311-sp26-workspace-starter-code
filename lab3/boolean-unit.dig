@@ -345,6 +345,7 @@
       <elementName>Multiplexer</elementName>
       <elementAttributes>
         <entry>
+<<<<<<< HEAD
           <string>Selector Bits</string>
           <int>2</int>
         </entry>
@@ -352,6 +353,15 @@
           <string>Bits</string>
           <int>32</int>
         </entry>
+=======
+          <string>Bits</string>
+          <int>32</int>
+        </entry>
+        <entry>
+          <string>Selector Bits</string>
+          <int>2</int>
+        </entry>
+>>>>>>> 3ea558d (Finished lab 3)
       </elementAttributes>
       <pos x="1320" y="400"/>
     </visualElement>
@@ -447,7 +457,11 @@
           <string>OUT</string>
         </entry>
       </elementAttributes>
+<<<<<<< HEAD
       <pos x="1520" y="420"/>
+=======
+      <pos x="1720" y="420"/>
+>>>>>>> 3ea558d (Finished lab 3)
     </visualElement>
   </visualElements>
   <wires>
@@ -472,8 +486,13 @@
       <p2 x="1320" y="420"/>
     </wire>
     <wire>
+<<<<<<< HEAD
       <p1 x="1520" y="420"/>
       <p2 x="1580" y="420"/>
+=======
+      <p1 x="1720" y="420"/>
+      <p2 x="1780" y="420"/>
+>>>>>>> 3ea558d (Finished lab 3)
     </wire>
     <wire>
       <p1 x="1120" y="580"/>
