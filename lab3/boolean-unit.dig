@@ -55,7 +55,7 @@
           <intFormat>bin</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="1780" y="420"/>
+      <pos x="1580" y="420"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -345,12 +345,12 @@
       <elementName>Multiplexer</elementName>
       <elementAttributes>
         <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-        <entry>
           <string>Selector Bits</string>
           <int>2</int>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>32</int>
         </entry>
       </elementAttributes>
       <pos x="1320" y="400"/>
@@ -447,7 +447,7 @@
           <string>OUT</string>
         </entry>
       </elementAttributes>
-      <pos x="1720" y="420"/>
+      <pos x="1520" y="420"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -472,8 +472,8 @@
       <p2 x="1320" y="420"/>
     </wire>
     <wire>
-      <p1 x="1720" y="420"/>
-      <p2 x="1780" y="420"/>
+      <p1 x="1520" y="420"/>
+      <p2 x="1580" y="420"/>
     </wire>
     <wire>
       <p1 x="1120" y="580"/>
