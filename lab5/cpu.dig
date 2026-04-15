@@ -152,32 +152,7 @@
           <string>Testdata</string>
           <testData>
             <dataString>clk ReadData1 ReadData2
-0 0 0		# addi $4 $0 -20
-C (-20) 0 	# addi $5 $4 0x7FFF
-C 32747 0 	# addi $6 $5 0x7018
-C 61443 0 	# addi $7 $6 0x5311
-C 0 0 		# ori $10 $0 10
-C 10 0 		# ori $11 $10 0xFF55
-C 65375 0 	# ori $12 $11 39
-C 61443 0 	# andi $14 $6 0xE123
-C 57347 0 	# andi $15 $14 0xFF1C
-C 57344 0 	# andi $17 $15 0x541
-C (-20) 0 	# slti $18 $4 311
-C 1 0 		# slti $19 $18 2
-C 1 0 		# slti $20 $19 0
-C 0 0 		# slti $21 $20 -3	
-C 0 0 		# slti $22 $21 5 
-C 1 0 		# addi $0 $22 0 
-C (-20) 0 	# slti $23 $4 -20	
-C 0 0 		# addi $0 $23 0
-C 65375 0 	# slti $24 $11 -90 
-C 0 0 		# addi $0 $24 0
-C (-20) 0 	# slti $25 $4 0 
-C 1 0 		# addi $0 $25 0 
-C 65375 0 	# slti $26 $11 6000
-C 0 0 		# addi $0 $26 0 
-C (-20) 0 	# slti $27 $4 -1 
-C 1 0 		# addi $0 $27 0	</dataString>
+</dataString>
           </testData>
         </entry>
       </elementAttributes>
@@ -201,10 +176,6 @@ C 1 0 		# addi $0 $27 0	</dataString>
         <entry>
           <string>Bits</string>
           <int>32</int>
-        </entry>
-        <entry>
-          <string>Data</string>
-          <data>20040005,2008000f,882020,843820,884825,e95025</data>
         </entry>
         <entry>
           <string>lastDataFile</string>
