@@ -27,20 +27,36 @@
     slti x27, x4,  -1       
     addi x0,  x27, 0
 
-    # add 
+    # add
+    add x8, x4, x5       # x8 = x4 + x5
+    add x9, x8, x6       # x9 = x8 + x6
 
     # sub
+    sub x10, x9, x4      # x10 = x9 - x4
+    sub x11, x10, x7     # x11 = x10 - x7
 
     # or
+    or x12, x4, x5       # x12 = x4 | x5
+    or x13, x12, x6      # x13 = x12 | x6
 
     # and
+    and x16, x6, x7      # x16 = x6 & x7
+    and x28, x16, x5     # x28 = x16 & x5
 
     # slt
+    slt x29, x4, x5      # x29 = (x4 < x5) ? 1 : 0
+    slt x30, x5, x4      # x30 = (x5 < x4) ? 1 : 0
 
-    # sll 
+    # sll
+    sll x8, x4, x5       # x8 = x4 << x5
+    sll x9, x6, x4       # x9 = x6 << x4
 
     # srl
+    srl x10, x5, x4      # x10 = x5 >> x4 (logical)
+    srl x11, x6, x5      # x11 = x6 >> x5
 
     # sra
+    sra x12, x4, x5      # x12 = x4 >> x5 (arithmetic)
+    sra x13, x6, x4      # x13 = x6 >> x4
 
 
