@@ -346,6 +346,7 @@
       <elementAttributes>
         <entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <string>Selector Bits</string>
           <int>2</int>
         </entry>
@@ -354,6 +355,8 @@
           <int>32</int>
         </entry>
 =======
+=======
+>>>>>>> b4b42c8733a8a9374d1fa76fe47e2f3fad34f7f6
           <string>Bits</string>
           <int>32</int>
         </entry>
@@ -361,7 +364,10 @@
           <string>Selector Bits</string>
           <int>2</int>
         </entry>
+<<<<<<< HEAD
 >>>>>>> 3ea558d (Finished lab 3)
+=======
+>>>>>>> b4b42c8733a8a9374d1fa76fe47e2f3fad34f7f6
       </elementAttributes>
       <pos x="1320" y="400"/>
     </visualElement>
@@ -458,10 +464,14 @@
         </entry>
       </elementAttributes>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pos x="1520" y="420"/>
 =======
       <pos x="1720" y="420"/>
 >>>>>>> 3ea558d (Finished lab 3)
+=======
+      <pos x="1720" y="420"/>
+>>>>>>> b4b42c8733a8a9374d1fa76fe47e2f3fad34f7f6
     </visualElement>
   </visualElements>
   <wires>
@@ -487,12 +497,17 @@
     </wire>
     <wire>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <p1 x="1520" y="420"/>
       <p2 x="1580" y="420"/>
 =======
       <p1 x="1720" y="420"/>
       <p2 x="1780" y="420"/>
 >>>>>>> 3ea558d (Finished lab 3)
+=======
+      <p1 x="1720" y="420"/>
+      <p2 x="1780" y="420"/>
+>>>>>>> b4b42c8733a8a9374d1fa76fe47e2f3fad34f7f6
     </wire>
     <wire>
       <p1 x="1120" y="580"/>
